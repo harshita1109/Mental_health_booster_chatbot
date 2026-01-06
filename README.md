@@ -3,7 +3,7 @@
 > *An empathetic, accessible AI chatbot built to support mental well-being using Generative AI, NLP, Sentiment Analysis, and Speech-to-Text.*
 
 🌍 **Live Demo (Hugging Face Space):**  
-👉 https://huggingface.co/spaces/<your-username>/<your-space-name>  
+👉 https://huggingface.co/spaces/harshitash11/Mental_Health_Booster_Chatbot 
 
 ---
 
